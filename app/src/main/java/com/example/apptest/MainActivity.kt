@@ -80,7 +80,7 @@ fun CarteUtilisateur() {
             colors = ButtonDefaults.buttonColors(containerColor = Cyan),
             shape = RoundedCornerShape(6.dp)
         ) {
-            Text("⚡  VOIR MES COURS", color = Noir, fontWeight = FontWeight.Bold, letterSpacing = 2.sp)
+            Text("VOIR MES COURS", color = Noir, fontWeight = FontWeight.Bold, letterSpacing = 2.sp)
         }
 
         Spacer(modifier = Modifier.height(8.dp))
