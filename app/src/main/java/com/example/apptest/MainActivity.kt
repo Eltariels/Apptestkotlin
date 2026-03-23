@@ -55,7 +55,7 @@ fun CarteUtilisateur() {
             Column(modifier = Modifier.padding(16.dp)) {
                 Text("Nom : Théo BORELLA", color = Color.White, fontSize = 18.sp, fontWeight = FontWeight.Bold)
                 Text("Âge : 22 ans", color = Gris, fontSize = 16.sp)
-                Text("Ville : Ambérieu-en-Bugey", color = Gris, fontSize = 16.sp)
+                Text("Ville : Lyon", color = Gris, fontSize = 16.sp)
             }
         }
 
